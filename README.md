@@ -25,7 +25,7 @@ This research project was collaboratively developed by:
 
 ```text
 📦 NetGuardAI
- ┣ 📜 Report.pdf                                 # Comprehensive research paper and findings
+ ┣ 📜 Research paper.pdf                         # Comprehensive research paper and findings
  ┣ 📜 base-paper-implementation.ipynb            # Baseline model (AE + LSTM + CNN w/ SMOTE)
  ┣ 📜 improved-model-qa-cvae-attention.ipynb     # Enhanced Model (QA-CVAE + Attention)
  ┗ 📜 README.md                                  # Project documentation
@@ -64,5 +64,3 @@ These notebooks are designed to be run directly in Google Colab or Kaggle (lever
 
 A full comparative analysis detailing baseline vs. improved precision-recall curves, confusion matrices, and Macro F1-score gains is available in the `Report.pdf`. The Generative AI approach yielded a measurable improvement in capturing rare attack classes compared to the traditional baseline.
 
-## ⚖️ License
-This project is licensed under the MIT License - see the LICENSE file for details.
